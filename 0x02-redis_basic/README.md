@@ -71,10 +71,8 @@ This project contains tasks for learning to use the Redis NoSQL data storage app
   + **Tip**: Use [http://slowwly.robertomurray.co.uk](http://slowwly.robertomurray.co.uk) to simulate a slow response and test your caching.
   + **Bonus**: implement this use case with decorators.
 
-
-## :pencil: **Author**
-### :man: Jeffery Emuuodafevware
-- [Github](https://github.com/goldenjeffempire)
-- [Linkedin](https://www.linkedin.com/in/jeffery-emuodafevware)
-- [Twitter](https://x.com/goldenjeffemp)
-
+## RESOURCES
++ [x] [Redis commands](https://intranet.alxswe.com/rltoken/lQ8ANhVfxDTxDr2UDSyQRA)
++ [x] [Redis python client](https://intranet.alxswe.com/rltoken/imfgFhAZPlg7YMZ_tHvFZw)
++ [x] [How to Use Redis With Python](https://intranet.alxswe.com/rltoken/7SluvFvgckwVgsvrfOf1CQ)
++ [x] [Redis Crash Course Tutorial](https://intranet.alxswe.com/rltoken/hJVo3XwMMFFoApyX8zPXvA)   
